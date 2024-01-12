@@ -2,7 +2,7 @@ target:https://gitee.com/heyewei/JFinalcms
 
 version:v5.0.0
 
-Permitting unauthorized users to download any file from the server.
+Permitting unauthorized users to read any file from the server.
 
 code 
 ![image](https://github.com/nslhyea/cms/assets/156444259/bd6fb0f7-a8c9-4024-af6e-349a5ce68d44)
